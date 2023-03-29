@@ -6,7 +6,7 @@
 
 **Melody Mate: An Interactive Musical Chatbot**
 
-Melody Mate is a unique chatbot designed to respond to user inputs, provide an emotion and showcase real time artists. With its advanced machine learning algorithms, Melody Mate can understand user preferences, and create matches between a user and a musical theme accordingly and suggest changes on the go.
+Melody Mate is a unique chatbot designed to respond to user inputs, provide an emotion and showcase real time artists. With its advanced algorithms, Melody Mate can understand user preferences, and create matches between a user and a musical theme accordingly and suggest changes on the go.
 
 **Technologies Used**
 
